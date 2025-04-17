@@ -16,6 +16,6 @@ Matplotlip & Seaborn for visualization
 This project focuses on analyzing global population data using a dataset containing country-wise population statistics. The notebook begins by loading and exploring the dataset, checking for missing values, duplicates, and understanding its structure. It then filters the data to focus specifically on total population figures, identifies the top ten most populous countries in the year 2022, and visualizes the results using bar plots. The analysis is carried out using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for efficient data handling and visualization.
 
 **Intern:** Snehal Bedkute
-\\**Internship:** Prodigy InfoTech Data Science
+**Internship:** Prodigy InfoTech Data Science
 
 #ProdigyInfoTech
